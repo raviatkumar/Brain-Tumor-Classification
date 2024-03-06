@@ -1,5 +1,7 @@
 # Brain Tumor Classification
 
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Brain-Tumor-Classification/main/image/Tr-gl_0043%20(1).jpg)
+
 ## Problem Description
 
 Tumors can be categorized into cancerous (malignant) and non-cancerous (benign) types, with primary tumors originating within the brain and secondary tumors spreading from other parts of the body. The symptoms vary based on the affected brain region and may include persistent headaches, seizures, vision problems, vomiting, and changes in mental function. Notably, morning headaches that alleviate with vomiting are characteristic. As the disease progresses, individuals may experience difficulties in walking, speaking, or sensation, leading to potential unconsciousness.
