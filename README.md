@@ -13,12 +13,8 @@ A brain tumor refers to the abnormal growth of cancerous or non-cancerous cells 
 ## Prevalence:
 Brain tumors are relatively rare compared to other types of cancers, accounting for about 1-2% of all cancer diagnoses.
 
-The prevalence can vary by age, with certain types of brain tumors more common in children and others more prevalent in adults.
-
 ## Global Incidence:
 The incidence of brain tumors varies globally, with differences in rates among countries and populations.
-
-It is estimated that there are around 8 to 10 cases of primary brain tumors per 100,000 people annually.
 
 ## Common Causes:
 
@@ -48,5 +44,3 @@ Diagnosis often involves imaging studies such as MRI or CT scans, and sometimes 
 Treatment options include surgery to remove the tumor, radiation therapy, and chemotherapy.
 
 The choice of treatment depends on factors such as the type and grade of the tumor, its location, and the overall health of the patient.
-
-
